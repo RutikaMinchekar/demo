@@ -1,2 +1,2 @@
 # demo
-this is my first repositary<br>Author- Rutika Minchekar
+this is my first repositary<br>Author- Rutika Minchekar[Computer Engineer]
