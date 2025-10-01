@@ -1,3 +1,2 @@
 # demo
-this is my first repositary.
-Author- Rutika Minchekar
+this is my first repositary<br>Author- Rutika Minchekar
